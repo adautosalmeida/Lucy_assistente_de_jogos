@@ -12,5 +12,5 @@ tecnicas que a linguagem Python nos fornece.
 
 
 Créditos:
-Deixo aqui os creditos dos algoritmmos ao professor Gustavo Guanabara. Os jogos foram
+Deixo aqui os creditos dos algoritmos ao professor Gustavo Guanabara. Os jogos foram
 aproveitados de seu curso de Python, que esta disponivel no seu canal no youtube e também na sua plataforma de ensino.
